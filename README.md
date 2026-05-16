@@ -163,6 +163,8 @@ Feel free to open an issue or submit a pull request if you would like to:
 - Improve model architecture
 - Add more fairness metrics
 
+Please read our [Contributing Guide](CONTRIBUTING.md) to get started.
+
 ---
 
 ⭐ **If you find this work useful, please star the repository!**

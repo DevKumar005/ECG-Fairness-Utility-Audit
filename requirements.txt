@@ -1,0 +1,10 @@
+wfdb
+neurokit2
+imbalanced-learn
+scikit-learn
+seaborn
+matplotlib
+pandas
+numpy
+tensorflow
+kaggle

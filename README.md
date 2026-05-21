@@ -143,7 +143,7 @@ If you use this code or refer to these findings in your own research, please cit
 
 ## 📝 Project Context
 
-This project was completed as part of a university term paper on **AI Ethics and Reliability**.
+This project was completed as part of a university Term Paper on **AI Ethics and Reliability in Healthcare**.
 
 ---
 
